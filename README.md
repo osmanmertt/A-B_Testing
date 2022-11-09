@@ -1,4 +1,4 @@
-# A-B_Testing
+# AB_Testing
 # General Information About A/B Test  
 In this study, a project about A/B Testing was carried out. First, brief information about the subject will be given.
 
